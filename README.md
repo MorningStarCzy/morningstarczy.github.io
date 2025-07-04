@@ -1,2 +1,1 @@
-# morningstarczy.github.io
-The blog and tools warehouse of MorningStarCzy.
+# MorningStarCzy的小窝
